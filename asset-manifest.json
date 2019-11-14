@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/thelitvinova/todo-list/static/css/main.cd36a157.chunk.css",
-    "main.js": "/thelitvinova/todo-list/static/js/main.ef9ebf09.chunk.js",
-    "main.js.map": "/thelitvinova/todo-list/static/js/main.ef9ebf09.chunk.js.map",
-    "runtime~main.js": "/thelitvinova/todo-list/static/js/runtime~main.15ace8b1.js",
-    "runtime~main.js.map": "/thelitvinova/todo-list/static/js/runtime~main.15ace8b1.js.map",
-    "static/js/2.d6ab339c.chunk.js": "/thelitvinova/todo-list/static/js/2.d6ab339c.chunk.js",
-    "static/js/2.d6ab339c.chunk.js.map": "/thelitvinova/todo-list/static/js/2.d6ab339c.chunk.js.map",
-    "index.html": "/thelitvinova/todo-list/index.html",
-    "precache-manifest.5f3d38ce734d7683a63fbea2d476434d.js": "/thelitvinova/todo-list/precache-manifest.5f3d38ce734d7683a63fbea2d476434d.js",
-    "service-worker.js": "/thelitvinova/todo-list/service-worker.js",
-    "static/css/main.cd36a157.chunk.css.map": "/thelitvinova/todo-list/static/css/main.cd36a157.chunk.css.map"
+    "main.css": "/todo-list/static/css/main.cd36a157.chunk.css",
+    "main.js": "/todo-list/static/js/main.ef9ebf09.chunk.js",
+    "main.js.map": "/todo-list/static/js/main.ef9ebf09.chunk.js.map",
+    "runtime~main.js": "/todo-list/static/js/runtime~main.f1ffef44.js",
+    "runtime~main.js.map": "/todo-list/static/js/runtime~main.f1ffef44.js.map",
+    "static/js/2.d6ab339c.chunk.js": "/todo-list/static/js/2.d6ab339c.chunk.js",
+    "static/js/2.d6ab339c.chunk.js.map": "/todo-list/static/js/2.d6ab339c.chunk.js.map",
+    "index.html": "/todo-list/index.html",
+    "precache-manifest.2ae9ccb8876e828a8ced48fb562d4542.js": "/todo-list/precache-manifest.2ae9ccb8876e828a8ced48fb562d4542.js",
+    "service-worker.js": "/todo-list/service-worker.js",
+    "static/css/main.cd36a157.chunk.css.map": "/todo-list/static/css/main.cd36a157.chunk.css.map"
   }
 }
